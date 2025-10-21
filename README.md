@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm Erick, a passionate **.NET Developer** with over 5 years of experience in building mobile and web applications.
+Hi! I'm Erick, a passionate **.NET Developer** with over 6 years of experience in building mobile and web applications.
 
 I'm always eager to learn new technologies and dive into advanced topics. I'm also looking to contribute to open-source projects and share my knowledge with the world.
 
@@ -10,6 +10,7 @@ I'm always eager to learn new technologies and dive into advanced topics. I'm al
 - ASP.NET MVC
 - Blazor Server
 - Blazor WebAssembly
+- Typescript
 
 ### 📱 Mobile Development
 - Xamarin
@@ -28,5 +29,5 @@ I'm currently deepening my knowledge of .NET and C# and exploring ways to make a
 - Share knowledge through blog posts or tutorials.
 
 ## Get in Touch
-- GitHub: [Erick Vazquez](https://github.com/erickvazquezi)
-- LinkedIn: [Erick Vazquez](https://www.linkedin.com/in/erickvazquezi)
+- GitHub: [Erick Vazquez](https://github.com/erickibanezdev)
+- LinkedIn: [Erick Vazquez](https://www.linkedin.com/in/erickibanezdev)
